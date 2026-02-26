@@ -1,0 +1,18 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Judge data (MNIST downloads on first run)
+judge/data/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
